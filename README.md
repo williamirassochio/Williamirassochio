@@ -1,5 +1,5 @@
 Olá, eu sou William Irassochio!!
 
 
-🌱 I’m currently learning especializando Python
+🌱 Atualmente estou me especializando Python
 
