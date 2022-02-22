@@ -1,6 +1,7 @@
-Olá, sejam bem vindos ao meu GitHbub
+Olá, sejam bem vindos ao meu GitHub
+
 Me chamo William Irassochio 🌊
 
-Sou devenvolvedor Python.
+Sou desenvolvedor Python.
 
 Vejam Alguns dos meus projetos:
